@@ -37,7 +37,7 @@ Gotovo je kak glasbenik med vami, torej mu bo zanimiv kak VST plugin, ki to simu
 Vseeno pa priporočam, da si najprej sam poskusiš rešiti nalogo. As always za vprašanja sem na voljo.
 
 
-* [**Poročilo DN4**]({% link fmf-pdf/year3/mfp/Marko_Urbanč_04.pdf %})
+* [**Poročilo DN4**](https://pengu5055.github.io/fmf-pdf/year3/mfp/Marko_Urbanč_04.pdf)
 * [**Source repozitorij DN4**](https://github.com/pengu5055/mfp04)
 
 Priznam, da zna biti source repozitorij nekoliko kaotičen. Over time sem se naučil boljše prakse. Zdi se mi, da je tole glavni `.py` file.
